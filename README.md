@@ -2,7 +2,7 @@
 
 Uma aplicação web interativa para Análise Exploratória de Dados (EDA) automatizada, construída com Gradio e potencializada pelo Google Gemini. Esta ferramenta permite que usuários façam upload de qualquer arquivo CSV e obtenham insights através de relatórios textuais e perguntas em linguagem natural que podem gerar gráficos dinamicamente.
 
-**[Acesse a Aplicação Online Aqui]([https://huggingface.co/spaces/ericbueno/agente-eda-csv])**
+**[Acesse a Aplicação Online Aqui](https://huggingface.co/spaces/ericbueno/agente-eda-csv)**
 
 ## Funcionalidades Principais
 
