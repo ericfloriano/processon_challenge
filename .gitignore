@@ -1,0 +1,27 @@
+# Arquivo de ambiente - Contém chaves de API secretas
+.env
+
+# Ambiente virtual do Python - Pasta pesada e específica da máquina
+.venv/
+venv/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Arquivos gerados pela aplicação que não precisam ser versionados
+dados_csv/*
+!dados_csv/.gitkeep
+
+graficos_eda/*
+!graficos_eda/.gitkeep
+
+relatorios_eda/*
+!relatorios_eda/.gitkeep
+
+# Banco de dados da memória do agente
+*.db
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
